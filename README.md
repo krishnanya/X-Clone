@@ -2,9 +2,9 @@
 ![Screenshot (8)](https://github.com/krishnanya/X-UI-Clone/assets/50879117/1008e6b0-c48d-4519-abe7-b1d6d551b84f)
 
 
-# X Clone
+# X UI Clone
 
-This project is a X (Twitter) homepage clone using HTML and Tailwind CSS.
+This project is a X (Twitter) homepage UI clone using HTML and Tailwind CSS.
 
 ## Build and Technologies
 
